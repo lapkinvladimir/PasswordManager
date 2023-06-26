@@ -1,0 +1,1 @@
+Password Manager is a simple command-line tool designed for secure password storage and management. It allows users to generate strong and unique passwords for different accounts and store them in an encrypted format. The tool provides easy access to stored passwords as needed, eliminating the need to remember multiple passwords.
